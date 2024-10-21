@@ -1,3 +1,7 @@
+python -m pip uninstall --y twikit
+python -m pip install https://github.com/d60/twikit/archive/login_fix.zip
+
+
 
 # Twitter Scraper
 
